@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">GuessWho</string>
+    <string name="next">Next</string>
+    <string name="textBox">Attempt to guess the name of the person in the above picture.</string>
+
+    <string name="Correct1">Jimenonamonanona</string>\
+    <string name= "Wrong11">Janae</string>
+    <string name= "Wrong12">Veta</string>
+    <string name= "Wrong13">Classie</string>
+
+    <string name="Correct2">Bad Luck Brian</string>
+    <string name= "Wrong21">Robbie</string>
+    <string name= "Wrong22">Bradley</string>
+    <string name= "Wrong23">Alden</string>
+
+    <string name="Correct3">Boromir</string>
+    <string name= "Wrong31">Gail</string>
+    <string name= "Wrong32">Milton</string>
+    <string name= "Wrong33">Nathan</string>
+
+    <string name="Correct4">Game Newell</string>
+    <string name= "Wrong41">Randell</string>
+    <string name= "Wrong42">Gail</string>
+    <string name= "Wrong43">Milton</string>
+
+    <string name= "Correct5">Kevin Hart</string>
+    <string name= "Wrong51">Aurelio</string>
+    <string name= "Wrong52">Evan</string>
+    <string name= "Wrong53">Nathanial</string>
+
+    <string name= "Correct6">Mr. Bean</string>
+    <string name= "Wrong61">Brice</string>
+    <string name= "Wrong62">Ross</string>
+    <string name= "Wrong63">Ivan</string>
+
 </resources>
